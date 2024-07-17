@@ -1,0 +1,87 @@
+2024-07-17 06:47:51.203785: Log file cleared.
+2024-07-17 06:47:51.284001: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key # released.
+2024-07-17 06:47:51.309700: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key Key.shift released.
+2024-07-17 06:47:51.953265: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key ENTER pressed.
+2024-07-17 06:47:52.012900: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key ENTER released.
+2024-07-17 06:47:55.266956: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key a pressed.
+2024-07-17 06:47:55.382131: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key a released.
+2024-07-17 06:47:55.529398: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key r pressed.
+2024-07-17 06:47:55.613905: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key r released.
+2024-07-17 06:47:55.709685: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key e pressed.
+2024-07-17 06:47:55.773073: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key e released.
+2024-07-17 06:47:55.978027: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key SPACE pressed.
+2024-07-17 06:47:56.045681: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key SPACE released.
+2024-07-17 06:47:56.352330: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key y pressed.
+2024-07-17 06:47:56.417491: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key y released.
+2024-07-17 06:47:56.653372: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key o pressed.
+2024-07-17 06:47:56.729355: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key o released.
+2024-07-17 06:47:56.875773: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key u pressed.
+2024-07-17 06:47:56.956707: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key u released.
+2024-07-17 06:47:57.135210: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key SPACE pressed.
+2024-07-17 06:47:57.211334: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key SPACE released.
+2024-07-17 06:47:57.675275: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key s pressed.
+2024-07-17 06:47:57.745315: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key s released.
+2024-07-17 06:47:58.242988: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key p pressed.
+2024-07-17 06:47:58.321002: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key p released.
+2024-07-17 06:47:58.571593: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key y pressed.
+2024-07-17 06:47:58.647294: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key y released.
+2024-07-17 06:47:59.039729: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key i pressed.
+2024-07-17 06:47:59.104402: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key i released.
+2024-07-17 06:47:59.265686: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key n pressed.
+2024-07-17 06:47:59.350122: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key n released.
+2024-07-17 06:47:59.536731: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key g pressed.
+2024-07-17 06:47:59.592733: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key g released.
+2024-07-17 06:47:59.726497: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key SPACE pressed.
+2024-07-17 06:47:59.795425: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key SPACE released.
+2024-07-17 06:48:00.208252: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key a pressed.
+2024-07-17 06:48:00.273201: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key a released.
+2024-07-17 06:48:00.900694: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key t pressed.
+2024-07-17 06:48:00.960488: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key t released.
+2024-07-17 06:48:01.171855: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key SPACE pressed.
+2024-07-17 06:48:01.253830: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key SPACE released.
+2024-07-17 06:48:01.755372: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key m pressed.
+2024-07-17 06:48:01.836245: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key m released.
+2024-07-17 06:48:02.077490: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key r pressed.
+2024-07-17 06:48:02.128359: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key r released.
+2024-07-17 06:48:02.541874: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key Key.backspace pressed.
+2024-07-17 06:48:02.606493: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key Key.backspace released.
+2024-07-17 06:48:02.925517: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key e pressed.
+2024-07-17 06:48:02.995614: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key e released.
+2024-07-17 06:48:03.538632: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key Key.shift_r pressed.
+2024-07-17 06:48:03.735405: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key ? pressed.
+2024-07-17 06:48:03.816460: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key ? released.
+2024-07-17 06:48:03.983019: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key ? released.
+2024-07-17 06:48:04.115808: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key Key.shift_r released.
+2024-07-17 06:48:04.140816: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key / released.
+2024-07-17 06:48:05.022614: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key Key.shift pressed.
+2024-07-17 06:48:05.213822: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key Key.cmd pressed.
+2024-07-17 06:48:05.462702: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key S pressed.
+2024-07-17 06:48:05.503187: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key Key.cmd released.
+2024-07-17 06:48:05.504195: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key Key.shift released.
+2024-07-17 06:48:05.522010: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key s released.
+2024-07-17 06:48:13.389093: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key ESC pressed.
+2024-07-17 06:48:13.458178: [keylogger – D:\keylogger\.venv\Scripts\activate_this.py] Key ESC released.
+
+=== Session Summary ===
+Key: Key.shift, Count: 2
+Key: ENTER, Count: 1
+Key: a, Count: 2
+Key: r, Count: 2
+Key: e, Count: 2
+Key: SPACE, Count: 4
+Key: y, Count: 2
+Key: o, Count: 1
+Key: u, Count: 1
+Key: s, Count: 1
+Key: p, Count: 1
+Key: i, Count: 1
+Key: n, Count: 1
+Key: g, Count: 1
+Key: t, Count: 1
+Key: m, Count: 1
+Key: Key.backspace, Count: 1
+Key: Key.shift_r, Count: 1
+Key: ?, Count: 1
+Key: Key.cmd, Count: 1
+Key: S, Count: 1
+Key: ESC, Count: 1
